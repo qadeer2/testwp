@@ -1,0 +1,29 @@
+<wpml-config>
+	<shortcodes>
+		<shortcode>
+			<tag>dsm_button</tag>
+			<attributes>
+				<attribute>button_one_text</attribute>
+				<attribute>button_two_text</attribute>
+			</attributes>
+		</shortcode>
+	</shortcodes>
+	<shortcodes>
+		<shortcode>
+			<tag>dsm_block_reveal_text</tag>
+			<attributes>
+				<attribute>block_reveal_text</attribute>
+			</attributes>
+		</shortcode>
+	</shortcodes>
+	<shortcodes>
+		<shortcode>
+			<tag>dsm_typing_effect</tag>
+			<attributes>
+				<attribute>before_typing_effect</attribute>
+				<attribute>typing_effect</attribute>
+				<attribute>after_typing_effect</attribute>
+			</attributes>
+		</shortcode>
+	</shortcodes>
+</wpml-config>

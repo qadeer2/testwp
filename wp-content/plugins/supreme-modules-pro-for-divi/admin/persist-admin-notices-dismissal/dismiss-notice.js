@@ -1,0 +1,1 @@
+!function(i){i(function(){i("div[data-dismissible] button.notice-dismiss").on('click',function(n){var s,t,e;n.preventDefault(),t=(s=i(this).parent().attr("data-dismissible").split("-")).pop(),e={action:"dismiss_admin_notice",option_name:s.join("-"),dismissible_length:t,nonce:dismissible_notice.nonce},i.post(ajaxurl,e)})})}(jQuery);

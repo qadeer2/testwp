@@ -1,0 +1,1990 @@
+# Copyright (C) 2018 Divi Supreme
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi Supreme Pro 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/supreme-modules-"
+"pro-for-divi\n"
+"POT-Creation-Date: 2018-11-01 08:58:32+00:00\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: includes/SupremeModulesLoader.php:47 includes/SupremeModulesLoader.php:112
+#: includes/SupremeModulesLoader.php:176
+msgid "Use Scheduled Content Visibility"
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:51 includes/SupremeModulesLoader.php:116
+#: includes/SupremeModulesLoader.php:180 includes/SupremeModulesLoader.php:519
+#: includes/SupremeModulesLoader.php:544
+#: includes/modules/Buttons/Buttons.php:140
+#: includes/modules/Buttons/Buttons.php:178
+#: includes/modules/ContactForm7/ContactForm7.php:298
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:64
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:113
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:125
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:137
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:149
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:161
+#: includes/modules/FacebookSimpleFeed/FacebookSimpleFeed.php:90
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:102
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:217
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:268
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:295
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:378
+#: includes/modules/IconDivider/IconDivider.php:118
+#: includes/modules/IconDivider/IconDivider.php:169
+#: includes/modules/IconDivider/IconDivider.php:196
+#: includes/modules/IconDivider/IconDivider.php:274
+#: includes/modules/ImageReveal/ImageReveal.php:255
+#: includes/modules/ImageReveal/ImageReveal.php:271
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:136
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:304
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:320
+#: includes/modules/TypingEffect/TypingEffect.php:147
+#: includes/modules/TypingEffect/TypingEffect.php:159
+#: includes/modules/TypingEffect/TypingEffect.php:215
+#: includes/modules/TypingEffect/TypingEffect.php:226
+msgid "No"
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:52 includes/SupremeModulesLoader.php:117
+#: includes/SupremeModulesLoader.php:181 includes/SupremeModulesLoader.php:520
+#: includes/SupremeModulesLoader.php:545
+#: includes/modules/Buttons/Buttons.php:141
+#: includes/modules/Buttons/Buttons.php:179
+#: includes/modules/ContactForm7/ContactForm7.php:299
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:65
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:114
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:126
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:138
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:150
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:162
+#: includes/modules/FacebookSimpleFeed/FacebookSimpleFeed.php:91
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:103
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:218
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:269
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:296
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:379
+#: includes/modules/IconDivider/IconDivider.php:119
+#: includes/modules/IconDivider/IconDivider.php:170
+#: includes/modules/IconDivider/IconDivider.php:197
+#: includes/modules/IconDivider/IconDivider.php:275
+#: includes/modules/ImageReveal/ImageReveal.php:256
+#: includes/modules/ImageReveal/ImageReveal.php:270
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:137
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:305
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:319
+#: includes/modules/TypingEffect/TypingEffect.php:148
+#: includes/modules/TypingEffect/TypingEffect.php:160
+#: includes/modules/TypingEffect/TypingEffect.php:216
+#: includes/modules/TypingEffect/TypingEffect.php:227
+msgid "Yes"
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:57
+msgid ""
+"Here you can choose whether your Module will show or hide depending on the "
+"given date/time."
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:60
+msgid "Show or Hide Module"
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:64 includes/SupremeModulesLoader.php:129
+#: includes/SupremeModulesLoader.php:193
+#: includes/modules/FacebookSimpleFeed/FacebookSimpleFeed.php:78
+#: includes/modules/FacebookSimpleFeed/FacebookSimpleFeed.php:103
+msgid "Show"
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:65 includes/SupremeModulesLoader.php:130
+#: includes/SupremeModulesLoader.php:194
+#: includes/modules/FacebookSimpleFeed/FacebookSimpleFeed.php:79
+#: includes/modules/FacebookSimpleFeed/FacebookSimpleFeed.php:102
+msgid "Hide"
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:76 includes/SupremeModulesLoader.php:141
+#: includes/SupremeModulesLoader.php:205
+msgid "Schedule a Date/Time"
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:122
+msgid ""
+"Here you can choose whether your Section will show or hide depending on the "
+"given date/time."
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:125
+msgid "Show or Hide Section"
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:186
+msgid ""
+"Here you can choose whether your Row will show/hide depending on the given "
+"date/time."
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:189
+msgid "Show or Hide Row"
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:282
+msgid "Send"
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:417
+msgid ""
+"If you like %1$s please leave us a %2$s rating. A huge thanks in advance!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Divi Supreme"
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:419
+msgid "Thanks :)"
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:432
+msgid "Divi Footer Templates"
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:433
+msgid "Divi Footer Template"
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:434
+msgid "Add New"
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:435
+msgid "Add New Template"
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:436
+msgid "Edit Template"
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:437
+msgid "New Template"
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:438
+msgid "All Templates"
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:439
+msgid "View Template"
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:440
+msgid "Search Templates"
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:441
+msgid "Nothing found"
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:442
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:491
+msgid "Footer"
+msgstr ""
+
+#: includes/SupremeModulesLoader.php:563
+msgid ""
+"Tips: To have better experience with Visual Builder and the Footer Template, "
+"it is advisable that you either Disable the <b>Static CSS File Generation</"
+"b> or enable both <b>Static CSS File Generation and Output Styles Inline</b> "
+"during development in order to view the footer render properly in the Visual "
+"Builder."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Divi Supreme Pro"
+msgstr ""
+
+#: includes/class.page-settings.php:43
+msgid "Footer Template"
+msgstr ""
+
+#: includes/class.page-settings.php:46 includes/class.page-settings.php:48
+msgid "License"
+msgstr ""
+
+#: includes/class.page-settings.php:67
+msgid "Divi Supreme General Settings"
+msgstr ""
+
+#: includes/class.page-settings.php:68
+msgid ""
+"Divi Supreme features a huge collection of custom creative modules and "
+"extensions that can be used in the Divi Theme, Extra Theme and the Divi "
+"Builder. We will keep on adding and enhance Divi Supreme Pro where you can "
+"find extra features for Divi to help you build better websites."
+msgstr ""
+
+#: includes/class.page-settings.php:90
+msgid "<h3>Divi Supreme Extensions</h3>"
+msgstr ""
+
+#: includes/class.page-settings.php:96
+msgid "Enable Scheduled Content on Section, Row and Modules"
+msgstr ""
+
+#: includes/class.page-settings.php:97 includes/class.page-settings.php:105
+msgid "<span class=\"slider round\"></span>"
+msgstr ""
+
+#: includes/class.page-settings.php:104
+msgid "Enable Footer Template"
+msgstr ""
+
+#: includes/class.page-settings.php:251
+msgid "Divi Supreme Pro: Please enter your"
+msgstr ""
+
+#: includes/class.page-settings.php:251
+msgid "Licence key"
+msgstr ""
+
+#: includes/class.page-settings.php:277 includes/class.page-settings.php:357
+msgid "There was a problem connecting to "
+msgstr ""
+
+#: includes/class.page-settings.php:315
+msgid "There was a problem deactivating the licence: "
+msgstr ""
+
+#: includes/class.page-settings.php:341
+msgid "Licence key can't be empty"
+msgstr ""
+
+#: includes/class.page-settings.php:385
+msgid "There was a problem activating the licence: "
+msgstr ""
+
+#: includes/class.page-settings.php:408 includes/class.page-settings.php:447
+msgid "Divi Supreme Pro License"
+msgstr ""
+
+#: includes/class.page-settings.php:421
+msgid ""
+"If you forgotten/lost your the license key, you can always retrieve it from "
+"your "
+msgstr ""
+
+#: includes/class.page-settings.php:421
+msgid "Divi Supreme Account"
+msgstr ""
+
+#: includes/class.page-settings.php:421
+msgid "More license keys can be generate from your account."
+msgstr ""
+
+#: includes/class.page-settings.php:425
+msgid "Activate"
+msgstr ""
+
+#: includes/class.page-settings.php:445
+msgid "Your Divi Supreme Pro license has been activated."
+msgstr ""
+
+#: includes/class.page-settings.php:466
+msgid "You can generate more keys from your "
+msgstr ""
+
+#: includes/class.settings-api.php:361
+msgid "Choose File"
+msgstr ""
+
+#: includes/license/class.updater.php:71
+msgid "An error occour when try to identify the plugin."
+msgstr ""
+
+#: includes/license/class.updater.php:71 includes/license/class.updater.php:77
+msgid "Try again"
+msgstr ""
+
+#: includes/license/class.updater.php:77
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr ""
+
+#: includes/modules/Badges/Badges.php:15
+msgid "Supreme Text Badges"
+msgstr ""
+
+#: includes/modules/Badges/Badges.php:21
+#: includes/modules/Buttons/Buttons.php:29
+#: includes/modules/Buttons/Buttons.php:38
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:22
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:26
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:35
+#: includes/modules/GlitchText/GlitchText.php:21
+#: includes/modules/GradientText/GradientText.php:21
+#: includes/modules/Menu/Menu.php:21
+#: includes/modules/TextDivider/TextDivider.php:21
+#: includes/modules/TypingEffect/TypingEffect.php:22
+msgid "Text"
+msgstr ""
+
+#: includes/modules/Badges/Badges.php:35
+msgid "Main"
+msgstr ""
+
+#: includes/modules/Badges/Badges.php:54
+msgid "Badges"
+msgstr ""
+
+#: includes/modules/Badges/Badges.php:112
+msgid "Badge"
+msgstr ""
+
+#: includes/modules/Badges/Badges.php:131
+msgid "Main Text"
+msgstr ""
+
+#: includes/modules/Badges/Badges.php:138
+msgid "Badges Text"
+msgstr ""
+
+#: includes/modules/Badges/Badges.php:145
+msgid "Badges Placement"
+msgstr ""
+
+#: includes/modules/Badges/Badges.php:149
+#: includes/modules/TypingEffect/TypingEffect.php:38
+msgid "Before"
+msgstr ""
+
+#: includes/modules/Badges/Badges.php:150
+#: includes/modules/TypingEffect/TypingEffect.php:71
+msgid "After"
+msgstr ""
+
+#: includes/modules/Badges/Badges.php:153
+msgid ""
+"Here you can choose the placement of the badges to be before or after the "
+"Main Text."
+msgstr ""
+
+#: includes/modules/Badges/Badges.php:157
+#: includes/modules/ContactForm7/ContactForm7.php:322
+#: includes/modules/ContactForm7/ContactForm7.php:343
+#: includes/modules/ContactForm7/ContactForm7.php:351
+#: includes/modules/ContactForm7/ContactForm7.php:359
+#: includes/modules/ContactForm7/ContactForm7.php:367
+msgid "Background Color"
+msgstr ""
+
+#: includes/modules/Badges/Badges.php:163
+msgid "Here you can define a custom background color for the badge"
+msgstr ""
+
+#: includes/modules/Badges/Badges.php:166
+msgid "Gap"
+msgstr ""
+
+#: includes/modules/Badges/Badges.php:178
+msgid "Here you can define a gap between the text and the badge"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:15
+msgid "Supreme Button"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:16
+msgid "Supreme Buttons"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:21
+msgid "Main Element"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:30
+msgid "Links"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:31
+#: includes/modules/Buttons/Buttons.php:51
+msgid "Separator"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:36
+#: includes/modules/FacebookSimpleFeed/FacebookSimpleFeed.php:124
+#: includes/modules/IconDivider/IconDivider.php:28
+#: includes/modules/IconDivider/IconDivider.php:304
+#: includes/modules/ImageReveal/ImageReveal.php:27
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:30
+msgid "Alignment"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:71
+msgid "Button One"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:82
+msgid "Button Two"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:122
+#: includes/modules/Buttons/Buttons.php:160
+msgid "Button %1$s Text"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:125
+#: includes/modules/Buttons/Buttons.php:163
+msgid "Enter the text for the Button."
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:129
+#: includes/modules/Buttons/Buttons.php:167
+msgid "Button %1$s URL"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:132
+#: includes/modules/Buttons/Buttons.php:170
+msgid "Enter the URL for the Button."
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:136
+#: includes/modules/Buttons/Buttons.php:174
+msgid "Use as Video Popup"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:144
+msgid ""
+"Put the Video link on the Button #1 URL. Copy the video URL link and paste "
+"it here. Support: YouTube, Vimeo and Dailymotion."
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:148
+#: includes/modules/Buttons/Buttons.php:186
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:424
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:160
+msgid "Url Opens"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:152
+#: includes/modules/Buttons/Buttons.php:190
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:428
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:164
+msgid "In The Same Window"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:153
+#: includes/modules/Buttons/Buttons.php:191
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:429
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:165
+msgid "In The New Tab"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:156
+#: includes/modules/Buttons/Buttons.php:194
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:170
+msgid "Here you can choose whether or not your link opens in a new window"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:182
+msgid ""
+"Put the Video link on the Button #2 URL. Copy the video URL link and paste "
+"it here. Support: YouTube, Vimeo and Dailymotion."
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:198
+#: includes/modules/ContactForm7/ContactForm7.php:313
+msgid "Button Alignment"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:204
+#: includes/modules/ContactForm7/ContactForm7.php:319
+msgid "Here you can define the alignment of Button"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:207
+msgid "Separator Text"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:210
+msgid ""
+"Input your desired seprator text, or leave blank for no separator text in "
+"between the both buttons."
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:214
+msgid "Separator Gap"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:225
+#: includes/modules/Buttons/Buttons.php:246
+msgid "Button Hover %1$s Animation"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:229
+#: includes/modules/Buttons/Buttons.php:250 includes/modules/Menu/Menu.php:154
+msgid "None"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:230
+#: includes/modules/Buttons/Buttons.php:251
+msgid "Grow"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:231
+#: includes/modules/Buttons/Buttons.php:252
+msgid "Shrink"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:232
+#: includes/modules/Buttons/Buttons.php:253
+msgid "Pulse"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:233
+#: includes/modules/Buttons/Buttons.php:234
+#: includes/modules/Buttons/Buttons.php:254
+#: includes/modules/Buttons/Buttons.php:255
+msgid "Pulse Grow"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:235
+#: includes/modules/Buttons/Buttons.php:256
+msgid "Push"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:236
+#: includes/modules/Buttons/Buttons.php:257
+msgid "Pop"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:237
+#: includes/modules/Buttons/Buttons.php:258
+msgid "Bounce In"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:238
+#: includes/modules/Buttons/Buttons.php:259
+msgid "Bounce Out"
+msgstr ""
+
+#: includes/modules/Buttons/Buttons.php:239
+#: includes/modules/Buttons/Buttons.php:260
+msgid "Rotate"
+msgstr ""
+
+#: includes/modules/ContactForm7/ContactForm7.php:15
+msgid "Supreme Contact Form 7"
+msgstr ""
+
+#: includes/modules/ContactForm7/ContactForm7.php:21
+#: includes/modules/ContactForm7/ContactForm7.php:288
+msgid "Contact Form 7"
+msgstr ""
+
+#: includes/modules/ContactForm7/ContactForm7.php:26
+#: includes/modules/ContactForm7/ContactForm7.php:43
+msgid "Labels"
+msgstr ""
+
+#: includes/modules/ContactForm7/ContactForm7.php:27
+#: includes/modules/ContactForm7/ContactForm7.php:60
+msgid "Input, Textarea & Select"
+msgstr ""
+
+#: includes/modules/ContactForm7/ContactForm7.php:28
+#: includes/modules/ContactForm7/ContactForm7.php:77
+msgid "Placeholder"
+msgstr ""
+
+#: includes/modules/ContactForm7/ContactForm7.php:29
+#: includes/modules/ContactForm7/ContactForm7.php:94
+msgid "Radio & Checkbox"
+msgstr ""
+
+#: includes/modules/ContactForm7/ContactForm7.php:30
+#: includes/modules/ContactForm7/ContactForm7.php:111
+msgid "File"
+msgstr ""
+
+#: includes/modules/ContactForm7/ContactForm7.php:31
+#: includes/modules/ContactForm7/ContactForm7.php:126
+msgid "Error Messages"
+msgstr ""
+
+#: includes/modules/ContactForm7/ContactForm7.php:32
+#: includes/modules/ContactForm7/ContactForm7.php:143
+msgid "Validation Error"
+msgstr ""
+
+#: includes/modules/ContactForm7/ContactForm7.php:33
+#: includes/modules/ContactForm7/ContactForm7.php:160
+#: includes/modules/ContactForm7/ContactForm7.php:237
+msgid "Validation Success"
+msgstr ""
+
+#: includes/modules/ContactForm7/ContactForm7.php:201
+msgid "Field"
+msgstr ""
+
+#: includes/modules/ContactForm7/ContactForm7.php:213
+#: includes/modules/ContactForm7/ContactForm7.php:225
+msgid "Validation Errors"
+msgstr ""
+
+#: includes/modules/ContactForm7/ContactForm7.php:246
+msgid "Box Shadow"
+msgstr ""
+
+#: includes/modules/ContactForm7/ContactForm7.php:263
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:156
+msgid "Button"
+msgstr ""
+
+#: includes/modules/ContactForm7/ContactForm7.php:294
+msgid "Show Error & Validation Messages"
+msgstr ""
+
+#: includes/modules/ContactForm7/ContactForm7.php:302
+msgid ""
+"This will show the error and validation messages on the Visual Builder for "
+"styling purposes."
+msgstr ""
+
+#: includes/modules/ContactForm7/ContactForm7.php:305
+msgid "Bottom Spacing"
+msgstr ""
+
+#: includes/modules/ContactForm7/ContactForm7.php:330
+msgid "Padding"
+msgstr ""
+
+#: includes/modules/ContactForm7/ContactForm7.php:560
+msgid "-- Select Contact Form 7 --"
+msgstr ""
+
+#: includes/modules/ContactForm7/ContactForm7.php:568
+msgid "No Contact From 7 form found"
+msgstr ""
+
+#: includes/modules/EmbedGoogleMap/EmbedGoogleMap.php:15
+msgid "Supreme Embed Google Map"
+msgstr ""
+
+#: includes/modules/EmbedGoogleMap/EmbedGoogleMap.php:21
+msgid "Embed Google Map"
+msgstr ""
+
+#: includes/modules/EmbedGoogleMap/EmbedGoogleMap.php:39
+msgid "Address"
+msgstr ""
+
+#: includes/modules/EmbedGoogleMap/EmbedGoogleMap.php:42
+msgid "Enter the address for the embed Google Map."
+msgstr ""
+
+#: includes/modules/EmbedGoogleMap/EmbedGoogleMap.php:47
+msgid "Zoom"
+msgstr ""
+
+#: includes/modules/EmbedGoogleMap/EmbedGoogleMap.php:61
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:169
+#: includes/modules/FacebookSimpleFeed/FacebookSimpleFeed.php:110
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:163
+#: includes/modules/FloatingMultiImages/FloatingMultiImages.php:33
+#: includes/modules/TextDivider/TextDivider.php:155
+msgid "Height"
+msgstr ""
+
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:15
+msgid "Supreme Embed Twitter Timeline "
+msgstr ""
+
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:21
+msgid "Twitter Timeline Settings"
+msgstr ""
+
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:52
+msgid "Twitter Username"
+msgstr ""
+
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:57
+msgid "Enter the Twitter Username without the hashtag @"
+msgstr ""
+
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:60
+msgid "Limit Tweets"
+msgstr ""
+
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:68
+msgid "Limiting the number of Tweets displayed."
+msgstr ""
+
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:72
+msgid "Number of Tweets"
+msgstr ""
+
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:88
+msgid "Theme"
+msgstr ""
+
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:92
+#: includes/modules/FacebookSimpleComments/FacebookSimpleComments.php:86
+msgid "Light"
+msgstr ""
+
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:93
+#: includes/modules/FacebookSimpleComments/FacebookSimpleComments.php:87
+msgid "Dark"
+msgstr ""
+
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:97
+msgid ""
+"Here you can choose whether the Twitter Widget will appear in light or dark "
+"theme."
+msgstr ""
+
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:109
+msgid "Show Header"
+msgstr ""
+
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:117
+msgid ""
+"Hides the timeline header. Implementing sites must add their own Twitter "
+"attribution, link to the source timeline, and comply with other Twitter "
+"display requirements."
+msgstr ""
+
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:121
+msgid "Show Footer"
+msgstr ""
+
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:129
+msgid ""
+"Hides the timeline footer and Tweet composer link, if included in the "
+"timeline widget type."
+msgstr ""
+
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:133
+msgid "Show Border"
+msgstr ""
+
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:141
+msgid ""
+"Removes all borders within the widget including borders surrounding the "
+"widget area and separating Tweets."
+msgstr ""
+
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:145
+msgid "Show Scrollbar"
+msgstr ""
+
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:153
+msgid ""
+"Crops and hides the main timeline scrollbar, if visible. Please consider "
+"that hiding standard user interface components can affect the accessibility "
+"of your website."
+msgstr ""
+
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:157
+msgid "Remove Widget's Background color"
+msgstr ""
+
+#: includes/modules/EmbedTwitterTimeline/EmbedTwitterTimeline.php:165
+msgid "Removes the widget’s background color."
+msgstr ""
+
+#: includes/modules/FacebookSimpleComments/FacebookSimpleComments.php:15
+msgid "Supreme Facebook Comments"
+msgstr ""
+
+#: includes/modules/FacebookSimpleComments/FacebookSimpleComments.php:21
+msgid "Facebook Comments Settings"
+msgstr ""
+
+#: includes/modules/FacebookSimpleComments/FacebookSimpleComments.php:59
+#: includes/modules/FacebookSimpleFeed/FacebookSimpleFeed.php:59
+msgid "App ID"
+msgstr ""
+
+#: includes/modules/FacebookSimpleComments/FacebookSimpleComments.php:63
+#: includes/modules/FacebookSimpleFeed/FacebookSimpleFeed.php:63
+msgid ""
+"Enter the Facebook App ID. You can go to <a href=\"%1$s\">Facebook "
+"Developer</a> and click on Create New App to get one."
+msgstr ""
+
+#: includes/modules/FacebookSimpleComments/FacebookSimpleComments.php:66
+msgid "Page URL"
+msgstr ""
+
+#: includes/modules/FacebookSimpleComments/FacebookSimpleComments.php:69
+msgid "Enter the Page URL."
+msgstr ""
+
+#: includes/modules/FacebookSimpleComments/FacebookSimpleComments.php:74
+msgid "Number of Posts"
+msgstr ""
+
+#: includes/modules/FacebookSimpleComments/FacebookSimpleComments.php:78
+msgid "The number of comments to show by default. The minimum value is 1."
+msgstr ""
+
+#: includes/modules/FacebookSimpleComments/FacebookSimpleComments.php:82
+msgid "Color Scheme"
+msgstr ""
+
+#: includes/modules/FacebookSimpleComments/FacebookSimpleComments.php:90
+msgid ""
+"The color scheme used by the comments plugin. Can be \"light\" or \"dark\"."
+msgstr ""
+
+#: includes/modules/FacebookSimpleComments/FacebookSimpleComments.php:94
+msgid "Order By"
+msgstr ""
+
+#: includes/modules/FacebookSimpleComments/FacebookSimpleComments.php:98
+msgid "Social"
+msgstr ""
+
+#: includes/modules/FacebookSimpleComments/FacebookSimpleComments.php:99
+msgid "Reverse Time"
+msgstr ""
+
+#: includes/modules/FacebookSimpleComments/FacebookSimpleComments.php:100
+msgid "Time"
+msgstr ""
+
+#: includes/modules/FacebookSimpleComments/FacebookSimpleComments.php:103
+msgid ""
+"The order to use when displaying comments. Can be \"social\", \"reverse_time"
+"\", or \"time\". The different order types are explained <a href=\"%1$s\">in "
+"the FAQ</a>"
+msgstr ""
+
+#: includes/modules/FacebookSimpleFeed/FacebookSimpleFeed.php:15
+msgid "Supreme Facebook Feed"
+msgstr ""
+
+#: includes/modules/FacebookSimpleFeed/FacebookSimpleFeed.php:21
+msgid "Facebook Feed Settings"
+msgstr ""
+
+#: includes/modules/FacebookSimpleFeed/FacebookSimpleFeed.php:66
+msgid "Facebook Page URL"
+msgstr ""
+
+#: includes/modules/FacebookSimpleFeed/FacebookSimpleFeed.php:69
+msgid "Enter the Facebook Page URL."
+msgstr ""
+
+#: includes/modules/FacebookSimpleFeed/FacebookSimpleFeed.php:74
+msgid "Hide Cover Photo"
+msgstr ""
+
+#: includes/modules/FacebookSimpleFeed/FacebookSimpleFeed.php:82
+msgid "Hide cover photo in the header."
+msgstr ""
+
+#: includes/modules/FacebookSimpleFeed/FacebookSimpleFeed.php:86
+msgid "Use Small Header?"
+msgstr ""
+
+#: includes/modules/FacebookSimpleFeed/FacebookSimpleFeed.php:94
+msgid "Use the small header instead."
+msgstr ""
+
+#: includes/modules/FacebookSimpleFeed/FacebookSimpleFeed.php:98
+msgid "Show Face Pile"
+msgstr ""
+
+#: includes/modules/FacebookSimpleFeed/FacebookSimpleFeed.php:106
+msgid "Show profile photos when friends like this."
+msgstr ""
+
+#: includes/modules/FacebookSimpleFeed/FacebookSimpleFeed.php:130
+msgid "Here you can define the alignment of Facebook Feed"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:16
+msgid "Supreme Flipbox"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:66
+msgid "Flipbox Type"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:71
+msgid "Flip"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:72
+msgid "Slide"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:73
+msgid "Zoom In"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:74
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:135
+msgid "Zoom Out"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:75
+msgid "Fade"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:81
+msgid "Flipbox Effect"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:86
+msgid "Flip Left"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:87
+msgid "Flip Right"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:88
+msgid "Flip Up"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:89
+msgid "Flip Down"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:98
+msgid "3D Effect"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:113
+msgid "Flipbox Slide Effect"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:118
+msgid "Slide Up"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:119
+msgid "Slide Down"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:120
+msgid "Slide Left"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:121
+msgid "Slide Right"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:130
+msgid "Flipbox Zoom Out Effect"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:136
+msgid "Zoom Out Up"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:137
+msgid "Zoom Out Down"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:138
+msgid "Zoom Out Left"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:139
+msgid "Zoom Out Right"
+msgstr ""
+
+#: includes/modules/FlipBoxPerk/FlipBoxPerk.php:148
+msgid "Animation Speed (in s)"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:19
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:20
+msgid "Flipbox Item"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:21
+msgid "Flipbox Item Settings"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:27
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:23
+msgid "Link"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:28
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:33
+#: includes/modules/IconDivider/IconDivider.php:21
+#: includes/modules/IconDivider/IconDivider.php:27
+msgid "Image & Icon"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:39
+#: includes/modules/ImageHoverReveal/ImageHoverReveal.php:27
+#: includes/modules/ImageReveal/ImageReveal.php:29
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:32
+msgid "Sizing"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:47
+#: includes/modules/ImageHoverReveal/ImageHoverReveal.php:39
+#: includes/modules/ImageReveal/ImageReveal.php:41
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:44
+msgid "Attributes"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:59
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:199
+#: includes/modules/GlitchText/GlitchText.php:36
+#: includes/modules/GradientText/GradientText.php:35
+#: includes/modules/Menu/Menu.php:36
+msgid "Title"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:77
+msgid "Body"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:92
+msgid "Subhead"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:127
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:317
+#: includes/modules/FloatingMultiImagesChild/FloatingMultiImagesChild.php:23
+#: includes/modules/IconDivider/IconDivider.php:49
+#: includes/modules/IconDivider/IconDivider.php:218
+#: includes/modules/ImageHoverReveal/ImageHoverReveal.php:21
+#: includes/modules/ImageReveal/ImageReveal.php:21
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:22
+msgid "Image"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:137
+#: includes/modules/IconDivider/IconDivider.php:59
+msgid "Image Box Shadow"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:188
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:439
+#: includes/modules/IconDivider/IconDivider.php:336
+#: includes/modules/TextDivider/TextDivider.php:126
+msgid "Top"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:192
+#: includes/modules/TextDivider/TextDivider.php:96
+msgid "Left"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:194
+#: includes/modules/TextDivider/TextDivider.php:98
+msgid "Right"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:202
+msgid "Text entered here will appear as title."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:206
+msgid "Sub Title"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:209
+msgid "Text entered here will appear as subtitle."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:213
+#: includes/modules/IconDivider/IconDivider.php:114
+msgid "Use Icon"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:242
+#: includes/modules/IconDivider/IconDivider.php:143
+msgid "Here you can choose whether icon set below should be used."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:246
+#: includes/modules/IconDivider/IconDivider.php:147
+msgid "Icon"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:251
+#: includes/modules/IconDivider/IconDivider.php:152
+msgid "Choose an icon to display with your blurb."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:256
+#: includes/modules/IconDivider/IconDivider.php:157
+msgid "Icon Color"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:258
+#: includes/modules/IconDivider/IconDivider.php:159
+msgid "Here you can define a custom color for your icon."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:264
+#: includes/modules/IconDivider/IconDivider.php:165
+msgid "Circle Icon"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:277
+#: includes/modules/IconDivider/IconDivider.php:178
+msgid ""
+"Here you can choose whether icon set above should display within a circle."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:283
+#: includes/modules/IconDivider/IconDivider.php:184
+msgid "Circle Color"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:285
+#: includes/modules/IconDivider/IconDivider.php:186
+msgid "Here you can define a custom color for the icon circle."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:291
+#: includes/modules/IconDivider/IconDivider.php:192
+msgid "Show Circle Border"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:301
+#: includes/modules/IconDivider/IconDivider.php:202
+msgid "Here you can choose whether if the icon circle border should display."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:309
+#: includes/modules/IconDivider/IconDivider.php:210
+msgid "Circle Border Color"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:311
+#: includes/modules/IconDivider/IconDivider.php:212
+msgid "Here you can define a custom color for the icon circle border."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:320
+#: includes/modules/FloatingMultiImagesChild/FloatingMultiImagesChild.php:71
+#: includes/modules/IconDivider/IconDivider.php:221
+#: includes/modules/ImageHoverReveal/ImageHoverReveal.php:105
+#: includes/modules/ImageReveal/ImageReveal.php:180
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:96
+msgid "Upload an image"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:321
+#: includes/modules/FloatingMultiImagesChild/FloatingMultiImagesChild.php:72
+#: includes/modules/IconDivider/IconDivider.php:222
+#: includes/modules/ImageHoverReveal/ImageHoverReveal.php:106
+#: includes/modules/ImageReveal/ImageReveal.php:181
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:97
+msgid "Choose an Image"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:322
+#: includes/modules/FloatingMultiImagesChild/FloatingMultiImagesChild.php:73
+#: includes/modules/IconDivider/IconDivider.php:223
+#: includes/modules/ImageHoverReveal/ImageHoverReveal.php:107
+#: includes/modules/ImageReveal/ImageReveal.php:182
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:98
+msgid "Set As Image"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:324
+#: includes/modules/IconDivider/IconDivider.php:225
+msgid "Upload an image to display at the top of your blurb."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:328
+#: includes/modules/IconDivider/IconDivider.php:229
+msgid "Image Alt Text"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:331
+#: includes/modules/IconDivider/IconDivider.php:232
+msgid "Define the HTML ALT text for your image here."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:337
+msgid "Image/Icon Placement"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:343
+msgid "Here you can choose where to place the icon."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:347
+msgid "Content"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:350
+msgid "Content entered here will appear inside the module."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:354
+#: includes/modules/IconDivider/IconDivider.php:250
+msgid "Image Width"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:374
+#: includes/modules/IconDivider/IconDivider.php:270
+msgid "Use Icon Font Size"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:390
+#: includes/modules/IconDivider/IconDivider.php:286
+msgid "Icon Font Size"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:408
+msgid "Button Text"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:411
+msgid "Input your desired button text, or leave blank for no button."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:415
+msgid "Button URL"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:418
+msgid "Input URL for your button."
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:432
+msgid "Choose whether your link opens in a new window or not"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:435
+msgid "Text Vertical Alignment"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:440
+#: includes/modules/TextDivider/TextDivider.php:97
+msgid "Center"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:441
+#: includes/modules/IconDivider/IconDivider.php:338
+#: includes/modules/TextDivider/TextDivider.php:128
+msgid "Bottom"
+msgstr ""
+
+#: includes/modules/FlipBoxPerkChild/FlipBoxPerkChild.php:446
+msgid ""
+"This setting determines the vertical alignment of your content. Your content "
+"can either be align to the top, vertically centered, or aligned to the "
+"bottom."
+msgstr ""
+
+#: includes/modules/FloatingMultiImages/FloatingMultiImages.php:17
+msgid "Supreme Floating Multi Images"
+msgstr ""
+
+#: includes/modules/FloatingMultiImages/FloatingMultiImages.php:51
+msgid "Floating Effect"
+msgstr ""
+
+#: includes/modules/FloatingMultiImages/FloatingMultiImages.php:56
+msgid "Up Down"
+msgstr ""
+
+#: includes/modules/FloatingMultiImages/FloatingMultiImages.php:57
+msgid "Left Right"
+msgstr ""
+
+#: includes/modules/FloatingMultiImages/FloatingMultiImages.php:63
+msgid "Image Animation Delay Interval (in ms)"
+msgstr ""
+
+#: includes/modules/FloatingMultiImages/FloatingMultiImages.php:78
+msgid "Animation Speed (in ms)"
+msgstr ""
+
+#: includes/modules/FloatingMultiImagesChild/FloatingMultiImagesChild.php:16
+msgid "Floating Multi Images"
+msgstr ""
+
+#: includes/modules/FloatingMultiImagesChild/FloatingMultiImagesChild.php:17
+msgid "Image Item"
+msgstr ""
+
+#: includes/modules/FloatingMultiImagesChild/FloatingMultiImagesChild.php:18
+msgid "Image Settings"
+msgstr ""
+
+#: includes/modules/FloatingMultiImagesChild/FloatingMultiImagesChild.php:78
+#: includes/modules/ImageHoverReveal/ImageHoverReveal.php:114
+#: includes/modules/ImageReveal/ImageReveal.php:189
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:104
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display."
+msgstr ""
+
+#: includes/modules/FloatingMultiImagesChild/FloatingMultiImagesChild.php:83
+#: includes/modules/ImageHoverReveal/ImageHoverReveal.php:118
+#: includes/modules/ImageReveal/ImageReveal.php:193
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:108
+msgid "Image Alternative Text"
+msgstr ""
+
+#: includes/modules/FloatingMultiImagesChild/FloatingMultiImagesChild.php:90
+#: includes/modules/ImageHoverReveal/ImageHoverReveal.php:125
+#: includes/modules/ImageReveal/ImageReveal.php:200
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:115
+msgid ""
+"This defines the HTML ALT text. A short description of your image can be "
+"placed here."
+msgstr ""
+
+#: includes/modules/FloatingMultiImagesChild/FloatingMultiImagesChild.php:96
+msgid "Horizontal Align"
+msgstr ""
+
+#: includes/modules/FloatingMultiImagesChild/FloatingMultiImagesChild.php:113
+msgid "Vertical Align"
+msgstr ""
+
+#: includes/modules/GlitchText/GlitchText.php:15
+msgid "Supreme Glitch Text"
+msgstr ""
+
+#: includes/modules/GlitchText/GlitchText.php:22
+#: includes/modules/GlitchText/GlitchText.php:101
+msgid "Glitch Effect"
+msgstr ""
+
+#: includes/modules/GlitchText/GlitchText.php:94
+msgid "Glitch Text"
+msgstr ""
+
+#: includes/modules/GlitchText/GlitchText.php:106
+msgid "Glitch One"
+msgstr ""
+
+#: includes/modules/GlitchText/GlitchText.php:107
+msgid "Glitch Two"
+msgstr ""
+
+#: includes/modules/GradientText/GradientText.php:15
+msgid "Supreme Gradient Text"
+msgstr ""
+
+#: includes/modules/GradientText/GradientText.php:113
+msgid "Gradient Text"
+msgstr ""
+
+#: includes/modules/IconDivider/IconDivider.php:15
+msgid "Supreme Icon Divider"
+msgstr ""
+
+#: includes/modules/IconDivider/IconDivider.php:22
+#: includes/modules/TextDivider/TextDivider.php:22
+msgid "Visibility"
+msgstr ""
+
+#: includes/modules/IconDivider/IconDivider.php:29
+#: includes/modules/IconDivider/IconDivider.php:316
+#: includes/modules/TextDivider/TextDivider.php:27
+#: includes/modules/TextDivider/TextDivider.php:106
+msgid "Color"
+msgstr ""
+
+#: includes/modules/IconDivider/IconDivider.php:30
+#: includes/modules/TextDivider/TextDivider.php:28
+msgid "Styles"
+msgstr ""
+
+#: includes/modules/IconDivider/IconDivider.php:311
+msgid "Here you can choose the divider alignment."
+msgstr ""
+
+#: includes/modules/IconDivider/IconDivider.php:319
+#: includes/modules/TextDivider/TextDivider.php:109
+msgid "This will adjust the color of the 1px divider line."
+msgstr ""
+
+#: includes/modules/IconDivider/IconDivider.php:323
+#: includes/modules/TextDivider/TextDivider.php:113
+msgid "Divider Style"
+msgstr ""
+
+#: includes/modules/IconDivider/IconDivider.php:332
+#: includes/modules/TextDivider/TextDivider.php:122
+msgid "Divider Position"
+msgstr ""
+
+#: includes/modules/IconDivider/IconDivider.php:337
+#: includes/modules/TextDivider/TextDivider.php:127
+msgid "Vertically Centered"
+msgstr ""
+
+#: includes/modules/IconDivider/IconDivider.php:345
+#: includes/modules/TextDivider/TextDivider.php:135
+msgid "Divider Weight"
+msgstr ""
+
+#: includes/modules/IconDivider/IconDivider.php:355
+msgid "Icon Gap"
+msgstr ""
+
+#: includes/modules/ImageHoverReveal/ImageHoverReveal.php:15
+msgid "Supreme Image Hover Reveal"
+msgstr ""
+
+#: includes/modules/ImageHoverReveal/ImageHoverReveal.php:35
+#: includes/modules/ImageReveal/ImageReveal.php:37
+#: includes/modules/ImageReveal/ImageReveal.php:218
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:40
+msgid "Animation"
+msgstr ""
+
+#: includes/modules/ImageHoverReveal/ImageHoverReveal.php:90
+msgid "Image Reveal Animation"
+msgstr ""
+
+#: includes/modules/ImageHoverReveal/ImageHoverReveal.php:94
+msgid "Vertical Slide Down"
+msgstr ""
+
+#: includes/modules/ImageHoverReveal/ImageHoverReveal.php:95
+msgid "Vertical Slide Up"
+msgstr ""
+
+#: includes/modules/ImageHoverReveal/ImageHoverReveal.php:96
+msgid "Horizontal Slide Right"
+msgstr ""
+
+#: includes/modules/ImageHoverReveal/ImageHoverReveal.php:97
+msgid "Horizontal Slide Left"
+msgstr ""
+
+#: includes/modules/ImageHoverReveal/ImageHoverReveal.php:130
+#: includes/modules/ImageReveal/ImageReveal.php:205
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:120
+msgid "Image Title Text"
+msgstr ""
+
+#: includes/modules/ImageHoverReveal/ImageHoverReveal.php:137
+#: includes/modules/ImageReveal/ImageReveal.php:212
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:127
+msgid "This defines the HTML Title text."
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:15
+msgid "Supreme Image Text Reveal"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:26
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:29
+msgid "Overlay"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:54
+msgid "Reveal"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:123
+msgid "fadeIn"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:124
+msgid "bounce"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:125
+msgid "flash"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:126
+msgid "pulse"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:127
+msgid "rubberBand"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:128
+msgid "shake"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:129
+msgid "swing"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:130
+msgid "tada"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:131
+msgid "wobble"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:132
+msgid "jello"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:133
+msgid "bounceIn"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:134
+msgid "bounceInDown"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:135
+msgid "bounceInLeft"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:136
+msgid "bounceInRight"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:137
+msgid "bounceInUp"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:138
+#: includes/modules/ImageReveal/ImageReveal.php:144
+msgid "fadeInDown"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:139
+#: includes/modules/ImageReveal/ImageReveal.php:145
+msgid "fadeInDownBig"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:140
+msgid "fadeInLeft"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:141
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:142
+msgid "fadeInRight"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:143
+msgid "fadeInRightBig"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:146
+msgid "fadeInUp"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:147
+msgid "fadeInUpBig"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:148
+msgid "slideInUp"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:149
+msgid "slideInDown"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:150
+msgid "slideInLeft"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:151
+msgid "slideInRight"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:152
+msgid "flip"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:153
+msgid "flipInX"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:154
+msgid "flipInY"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:155
+msgid "rotateIn"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:156
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:157
+msgid "rotateInDownRight"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:158
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:159
+msgid "rotateInUpRight"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:160
+msgid "zoomIn"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:161
+msgid "zoomInDown"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:162
+msgid "zoomInLeft"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:163
+msgid "zoomInRight"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:164
+msgid "zoomInUp"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:165
+msgid "lightSpeedIn"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:166
+msgid "rollIn"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:167
+msgid "hinge"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:171
+msgid "Reveal Text"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:230
+msgid "Reveal Overlay Color"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:236
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:275
+msgid "Here you can define a custom color for the overlay"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:240
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:289
+msgid "Image Alignment"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:247
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:296
+msgid "Here you can choose the image alignment."
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:251
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:300
+msgid "Force Fullwidth"
+msgstr ""
+
+#: includes/modules/ImageReveal/ImageReveal.php:266
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:315
+msgid "Always Center Image On Mobile"
+msgstr ""
+
+#: includes/modules/Menu/Menu.php:15
+msgid "Supreme Menu"
+msgstr ""
+
+#: includes/modules/Menu/Menu.php:26
+msgid "Menu Style"
+msgstr ""
+
+#: includes/modules/Menu/Menu.php:54 includes/modules/Menu/Menu.php:126
+msgid "Menu"
+msgstr ""
+
+#: includes/modules/Menu/Menu.php:108
+msgid "Menu Title"
+msgstr ""
+
+#: includes/modules/Menu/Menu.php:111
+msgid "The title will appear above the menu."
+msgstr ""
+
+#: includes/modules/Menu/Menu.php:115
+msgid "Bottom Gap"
+msgstr ""
+
+#: includes/modules/Menu/Menu.php:133
+msgid "Select a menu that should be used in the module"
+msgstr ""
+
+#: includes/modules/Menu/Menu.php:134
+msgid "Click here to create new menu"
+msgstr ""
+
+#: includes/modules/Menu/Menu.php:142
+msgid "Menu Link Color"
+msgstr ""
+
+#: includes/modules/Menu/Menu.php:150
+msgid "List Style Type"
+msgstr ""
+
+#: includes/modules/Menu/Menu.php:155
+msgid "Disc"
+msgstr ""
+
+#: includes/modules/Menu/Menu.php:156
+msgid "Circle"
+msgstr ""
+
+#: includes/modules/Menu/Menu.php:157
+msgid "Decimal"
+msgstr ""
+
+#: includes/modules/Menu/Menu.php:158
+msgid "Square"
+msgstr ""
+
+#: includes/modules/Menu/Menu.php:242
+msgid "Home"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:15
+msgid "Supreme Image"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:16
+msgid "Supreme Images"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:24
+msgid "Transform & Rotation"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:132
+msgid "Open in Lightbox"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:146
+msgid ""
+"Here you can choose whether or not the image should open in Lightbox. Note: "
+"if you select to open the image in Lightbox, url options below will be "
+"ignored."
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:149
+msgid "Link URL"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:156
+msgid ""
+"If you would like your image to be a link, input your destination URL here. "
+"No link will be created if this field is left blank."
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:173
+msgid "Perspective"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:190
+msgid "Rotate Y"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:207
+msgid "Rotate X"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:224
+msgid "Rotate Z"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:241
+msgid "Image Overlay"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:245
+msgid "Off"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:246
+msgid "On"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:257
+msgid ""
+"If enabled, an overlay color and icon will be displayed when a visitors "
+"hovers over the image"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:260
+msgid "Overlay Icon Color"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:266
+msgid "Here you can define a custom color for the overlay icon"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:269
+msgid "Hover Overlay Color"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:278
+msgid "Hover Icon Picker"
+msgstr ""
+
+#: includes/modules/PerspectiveImage/PerspectiveImage.php:286
+msgid "Here you can define a custom icon for the overlay"
+msgstr ""
+
+#: includes/modules/TextDivider/TextDivider.php:15
+msgid "Supreme Text Divider"
+msgstr ""
+
+#: includes/modules/TextDivider/TextDivider.php:39
+msgid "Divider"
+msgstr ""
+
+#: includes/modules/TextDivider/TextDivider.php:84
+msgid "Divider Text"
+msgstr ""
+
+#: includes/modules/TextDivider/TextDivider.php:87
+msgid "The text of divider will appear in between the divider."
+msgstr ""
+
+#: includes/modules/TextDivider/TextDivider.php:92
+msgid "Text Alignment"
+msgstr ""
+
+#: includes/modules/TextDivider/TextDivider.php:145
+msgid "Text Gap"
+msgstr ""
+
+#: includes/modules/TextDivider/TextDivider.php:160
+msgid "Define how much space should be added below the divider."
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:16
+msgid "Supreme Typing"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:23
+msgid "Typing Options"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:28
+msgid "Typing Styles"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:53
+msgid "Typing"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:121
+msgid "Before Text"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:127
+msgid "Typing Effect"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:130
+msgid ""
+"The title of your Typing Effect. Use \"|\" as a separator. eg Word One|Text "
+"Two|Divi 3"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:135
+msgid "After Text"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:141
+msgid "Use Loop"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:150
+msgid "If enabled, typing effect will loop infinite."
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:154
+msgid "Remove Cursor After Completed"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:168
+msgid "Typing Speed (in ms)"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:182
+msgid "Typing Backspeed (in ms)"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:196
+msgid "Back delay (in ms)"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:206
+msgid "Time before backspacing"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:210
+msgid "Use Fade Out"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:221
+msgid "Use Shuffle"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:232
+msgid "Cursor Character"
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:237
+msgid "Character for cursor."
+msgstr ""
+
+#: includes/modules/TypingEffect/TypingEffect.php:240
+msgid "Cursor Color"
+msgstr ""
+
+#: includes/templates/page-template-blank.php:49
+msgid "Pages:"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://divisupreme.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A pro version of Divi Supreme Modules"
+msgstr ""

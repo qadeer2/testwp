@@ -1,0 +1,248 @@
+== Changelog ==
+
+= 1.6.6 =
+Release date: 10th February 2021
+* FIXED: (Testimonial Slider, Testimonial Grid) Builder shortcode was coming in case pagebuilder was used in testimonial module.
+* FIXED: (Timeline) Text settings was not working.
+* FIXED: (Timeline) Box shadow for was not working properly for timeline items.
+* FIXED: (Timeline) Stem was disappearing after adding background.
+* FIXED: (Timeline) Icon border was not working.
+* FIXED: (Breadcrumbs) Global text alignment was not working.
+* FIXED: (Modal) 'Disable on' settings not working properly.
+* FIXED: (Scroll Image) Scroll was not working on first time page load.
+* FIXED: (Image Card, Image Card Carousel) Content Background default properties were not working.
+* FIXED: (Image Card Carousel) Default title was coming when leave empty.
+* FIXED: (Content Toggle) Few modules were not working properly when used within content toggle like divi's native gallery module, DP Masonry Gallery etc.
+* FIXED: (Content Toggle) Toggle not working on visual builder.
+* IMPROVEMENT: (Content Toggle) Toggle will not display when there is no content in either toggle.
+* IMPROVEMENT: (Content Toggle) Added default font properties.
+* IMPROVEMENT: (Text Highlighter) Removed extra space coming before and after main text.
+* IMPROVEMENT: (Timeline) Better rendering for visual builder.
+* IMPROVEMENT: (Timeline) Improved responsiveness for date tree layout.
+* IMPROVEMENT: Improved update mechanism.
+* IMPROVEMENT: Improved CSS & JS.
+
+= 1.6.5 =
+Release date: 12th January 2021
+* NEW: Woo Products Category Module.
+* ADDED: (Fancy Heading) Individual text align control for pre, post and main heading.
+* ADDED: (Separator) Border control.
+* ADDED: (Separator) Separator with image.
+* ADDED: (Before After Slider) Dynamic Content support for image.
+* FIXED: (Before After Slider) White dots in the slider control.
+* FIXED: (Fancy Text) Radial Gradient was not working properly in the Background Overlay.
+* FIXED: (Breadcrumbs) Separator Alignment.
+* FIXED: (Breadcrumbs) Open in new tab setting was not working.
+* FIXED: (Breadcrumbs) Home Icon was not displaying on front end.
+* FIXED: (Breadcrumbs) Home Icon size was not working in some cases.
+* FIXED: (Breadcrumbs) On hover background issue.
+* FIXED: (Testimonial Slider) Equalize testimonial height not working.
+* IMPROVEMENT: (Before After Slider) Added default font properties.
+* IMPROVEMENT: (Separator) Added default icon in separator with icon.
+
+
+= 1.6.4 =
+Release date: 6th January 2021
+* FIXED: (Masonry Gallery) Parse error: syntax error, unexpected ')'.
+* FIXED: (Flipbox) Flipbox stopped working.
+* FIXED: (Testimonial Slider) Slider stopped looping after one loop.
+* FIXED: (Image Card Carousel) Carousel stopped looping after one loop.
+* FIXED: (Woo Products Carousel) Carousel stopped looping after one loop.
+* IMPROVEMENT: Updated Swiper CSS & JS to v6.4.5.
+* IMPROVEMENT: Minor CSS fixes.
+
+= 1.6.3 =
+Release date: 4th January 2021
+* ADDED: (Woo Products, Woo Products Carousel) Control for products view type.
+* ADDED: (Woo Products, Woo Products Carousel) Control to hide out of stock products
+* ADDED: (Woo Products, Woo Products Carousel) Control for product image size.
+* ADDED: (Woo Products, Woo Products Carousel) Control for use current loop.
+* ADDED: (Button) Control for width, margin and padding.
+* ADDED: (Masonry Gallery) Multiple options to display title and caption.
+* ADDED: (Masonry Gallery) Multiple styles to display title and caption in lightbox.
+* FIXED: (Fancy Text) Text visibility issue on some browsers.
+* FIXED: (Blog Slider) Bottom padding coming on slides when used on single post page.
+* FIXED: (FAQ Page Schema) Not coming in 1 column on visual builder.
+* FIXED: (Before After Slider) Notice: 'Undefined variable: after_image_wrapper'.
+* FIXED: (Before After Slider) Notice: 'Undefined variable: before_image_wrapper'.
+* FIXED: (Text Animator) Left, Right spacing issue in case of empty prefix and postfix text.
+* FIXED: (Woo Products, Woo Products Carousel) Notice: 'Undefined variable: show_add_to_cart_on_hover' on builder.
+* IMPROVEMENT: (Flipbox) Added Imagesloaded support.
+* IMPROVEMENT: (Masonry Gallery) 'Title & Caption Background Color' field moved under 'Lightbox' toggle.
+* IMPROVEMENT: Minor CSS fixes.
+
+= 1.6.2 =
+Release date: 16th December 2020
+* NEW: Scroll Image Module.
+* NEW: Bar Counter Module.
+* FIXED: (Woo Products, Woo Products Carousel) Button styling is not coming in case of out of stock products.
+* FIXED: (Facebook Page) Page is going out of the container on mobile devices.
+
+= 1.6.1 =
+Release date: 9th December 2020
+* NEW: Interactive Image Card Module.
+* NEW: Woo Products Module.
+* NEW: Woo Products Carousel Module.
+* FIXED: (Image Mask) Scale property is not working properly.
+* FIXED: (Image Magnifier) Minor Fixes.
+* FIXED: (Testimonial) Testimonial meta fields were displaying incorrectly when some of them were empty.
+* FIXED: (Testimonial Slider) Pause on hover not working properly.
+* FIXED: (Team Slider) Pause on hover not working properly.
+* FIXED: (Logo Slider) Pause on hover not working properly.
+* FIXED: (Blog Slider) Pause on hover not working properly.
+* FIXED: (Image Card Carousel) Pause on hover not working properly.
+* FIXED: (Masonry Gallery) Imagesloaded was not working properly.
+* FIXED: (Particle Background) Not covering full height sections.
+* FIXED: Extensions were not coming on Floating Image, Image Magnifier, Image Card Carousel Modules.
+* IMPROVEMENT: Minor CSS fixes.
+
+= 1.6.0 =
+Release date: 24th Nov 2020
+* NEW: Scheduler Extension.
+* NEW: Visibility Manager Extension.
+* NEW: Particle Background Extension.
+* NEW: Divi Library Shortcode Extension.
+* NEW: Image Card Carousel Module.
+* NEW: Image Magnifier Module.
+* NEW: Floating Image Module.
+* ADDED: (Blog Slider) Border controls for single post.
+* FIXED: (Team Slider) Notice: 'undefinded index excerpt_lenth and content' on visual builder.
+* FIXED: (Testimonial Slider) Different opening quote icons on visual builder and front end.
+* FIXED: (Flipbox) Diagonal Flip.
+* FIXED: (Flipbox) Notice: 'Trying to access array offset on value of type null'.
+* FIXED: (Flipbox) Back side is visible when border radius is given in 3D Cube.
+* FIXED: (Separator) Shape Border when hexagon is selected.
+* FIXED: (Advanced Button) Background position when horizontal and vertical shutter hover fill style applied.
+* IMPROVEMENT: (Modal) Higher z-index.
+* IMPROVEMENT: (Image Card) Changed text_domain to divi-plus.
+* IMPROVEMENT: (Testimonial Slider) Removed computed_affects from non-computed fields.
+
+= 1.5.5 =
+Release date: 13th Nov 2020
+* NEW: Image Mask Module.
+* NEW: Text Highlighter Module.
+* ADDED: (Fancy Heading) Stack Option.
+* ADDED: (Fancy Heading) Dynamic Content Support.
+* ADDED: (Fancy Text) Dynamic Content Support.
+* ADDED: (Hotspot) Dynamic Content Support.
+* ADDED: (Hotspot) Library Layout For Hotspot Items Tooltip.
+* ADDED: (Hotspot) Mobile Size Control in Hotspot Marker Image.
+* ADDED: (Hotspot) Link Option in Hotspot Marker Item.
+* FIXED: (Fancy Heading) Padding issue in Fancy Heading Pre Post Text.
+
+= 1.5.4 =
+Release date: 30th Oct 2020
+* FIXED: (Team Slider) Instagram icon color not coming right on mobile devices.
+
+= 1.5.3 =
+Release date: 28th Oct 2020
+* NEW: Image Accordion Module.
+* NEW: Team Slider Module.
+* NEW: Image Card Module.
+* FIXED: (Content Toggle) Currency symbol overlapping when pricing table module is used in content toggle.
+* FIXED: (FAQ Schema) Border, Box Shadow, Background was applied to all the faq modules on page when added on any one.
+* FIXED: (Modal) Fullscreen video issues in some browsers.
+* FIXED: (Modal) Video Autoplay was not working when the modal triggered on page load due to browsers autoplay policy. Video will autoplay now in mute mode.
+* FIXED: (Modal) Default Background properties were not working.
+* FIXED: (Flipbox) Default Background properties were not working.
+* FIXED: (Logo Slider) CSS conflict with other plugins due to different versions of swiper.
+* FIXED: (Blog Slider) CSS conflict with other plugins due to different versions of swiper.
+* FIXED: (Testimonial Slider) CSS conflict with other plugins due to different versions of swiper.
+
+= 1.5.2 =
+Release date: 13th Oct 2020
+* NEW: Lottie Module.
+* NEW: Masonry Gallery Module.
+* ADDED: (Modal) 'Element CSS Class' trigger element type.
+* FIXED: (Modal) Visibility issues in some cases.
+* FIXED: (Twitter) Twitter script is coming on the page even when there is no module on the page.
+* FIXED: (Content Toggle) Not working properly in case of nested toggles.
+
+= 1.5.1 =
+Release date: 25th Sep 2020
+* NEW: Testimonial Grid module.
+* NEW: Testimonial Slider module.
+* FIXED: (Modal) Not working on divi builder plugin.
+* FIXED: (Modal) Not visible on divi theme builder.
+
+= 1.5.0 =
+Release date: 15th Sep 2020
+* NEW: Facebook Embedded Post module.
+* NEW: Facebook Embedded Video module.
+* NEW: Facebook Embedded Comment module.
+* NEW: Twitter Timeline module.
+* NEW: Twitter Follow Button module.
+* NEW: Twitter Share Button module.
+* NEW: Twitter Embedded Tweet module.
+* NEW: Star Rating module.
+* ADDED: (Form Styler) Box shadow to the buttons.
+* ADDED: (Ajax Search) Custom text field for no result found.
+* ADDED: (Ajax Search) Orderby & Order control.
+* ADDED: (Ajax Search) Control for Border & Box Shadow on search result box.
+* ADDED: (Ajax Search) Option to display product price.
+* ADDED: (Ajax Search) Column control for result items.
+* ADDED: (Ajax Search) Control to display the results in masonry.
+* ADDED: (Ajax Search) Control to hide scrollbar of result box.
+* ADDED: (Modal) 'Exit Intent' trigger type.
+* ADDED: (Modal) Control for closing modal on 'ESC' key.
+* ADDED: (Modal) Control to prevent re-rendering of modal on 'On Page Load' trigger type.
+* ADDED: (Modal) Control for Background overlay.
+* ADDED: (Modal) Control for footer close button alignment.
+* ADDED: (Modal) Control for autoplaying video.
+* FIXED: (Ajax Search) Woocommerce products which were excluded from search were coming in the results.
+* FIXED: (Form Styler) Changes were not implementing on visual builder.
+* IMPROVEMENT: (Modal) Better rendering style so that it does not overlap with any other element.
+* IMPROVEMENT: Minor CSS Fixes.
+
+= 1.4.3 =
+Release date: 20th Aug 2020
+* NEW: FAQPage Schema Module.
+* NEW: Ajax Search Box Module.
+* NEW: Facebook Like Module.
+* NEW: Facebook Comment Module.
+* NEW: Facebook Feed Module.
+* NEW: Facebook Share Module.
+* FIXED: Timeline Stem Height issue.
+
+= 1.4.2 =
+Release date: 06th Aug 2020
+* NEW: Price List Module.
+* NEW: Blog Slider Module.
+* FIXED: Fixed modal display issues on mobile devices.
+* FIXED: Logo Slider breaking the page in some cases.
+* FIXED: Flip Box diagonal flip issue.
+* FIXED: Hotspot tooltip background issue.
+
+= 1.4.1 =
+Release date: 08th July 2020
+* NEW: Flip Box Module.
+
+= 1.4.0 =
+Release date: 01st July 2020
+* NEW: Logo Slider Module.
+* NEW: Form Styler Module.
+* NEW: Modal Popup Module.
+* IMPROVEMENT: Improved code structure.
+
+= 1.3.0 =
+Release date: 1st June 2020
+* NEW: Button Module.
+* NEW: How To Schema Module.
+* NEW: Timeline Module.
+* NEW: Content Toggle Module.
+* NEW: Business Hours Module.
+* NEW: Panel to control number of active modules in builder.
+* IMPROVEMENT: Icon animation in hotspot marker.
+* FIXED: Import issue in Hotspot.
+
+= 1.2.0 =
+Release date: 21st April 2020
+* NEW: Added Text Animator and Hotspot Module.
+
+= 1.1.0 =
+Release date: 28th November 2019
+* NEW: New module Before After Slider. 
+
+= 1.0.0 =
+Release date: 25th November 2019
+* Initial release.
